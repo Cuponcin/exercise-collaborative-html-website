@@ -1,3 +1,17 @@
-body{
+body {
     background: #BDBDBD;
+}
+
+.hero-text h1 {
+    color: #343235;
+    font-weight: 600;
+    font-size: 8rem;
+    background-color: #FCFCFC;
+}
+
+.hero-text h2 {
+    color: #343235;
+    font-weight: 600;
+    font-size: 4.8rem;
+    background-color: #FCFCFC;
 }
